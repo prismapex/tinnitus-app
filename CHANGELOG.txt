@@ -1,0 +1,57 @@
+**** UPDATE VERSION NUMBER IN SCRIPT AND ON GITHUB ****
+
+2.6 (10/8/2026) Testing Version
+1. Added preset renaming
+2. Removed allusion to remove ads function in info
+3. Added critical/non-critical update check & skip non-critical functions
+
+2.5 (8/8/2026) (15)
+1. Fixed onboarding loop
+
+2.4 (PENDING) (14 ON PLAY CONSOLE)
+1. Centered version number
+2. 
+
+2.3 (7/8/2026) (13)
+1. Update ad system
+
+2.2 (6/8/2026) (12)
+1. Fixed onboard running in front of Splash Screen.
+
+2.1 (6/8/2026) (11)
+1. Fixed issue where background didn't extend to left edge
+
+2.0 (6/8/2026)
+1. Added Splash Screen
+2. Added version check/update button
+
+1.9 (5/6/2026)
+1. Modified active/inactive button states
+2. Fixed preset button active/modified states
+
+1.8 (5/8/2026)
+1. Fixed the first run onboarding logic error
+
+1.7 (4/8/2026)
+1. Complete interface overhaul
+2. New theme colour picker
+2. First run onboarding update
+3. Master Volume set ON and MAX by default
+
+1.6 not released
+
+1.5 (1/8/2026) not yet released
+1. Disable Info panel to show automatically on first run
+2. Disabled interaction with controls when Info panel is open
+3. Dimmed background when Info panel is showing
+4. Theme colour integration improved 
+5. Intro Slideshow implemented
+
+1.4 (31/7/2026)
+1. Set Master Volume full and active on start
+2. Changed background colour
+(added tester note for test release)
+
+
+
+
