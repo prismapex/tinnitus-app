@@ -1,9 +1,11 @@
 **** UPDATE VERSION NUMBER IN SCRIPT AND ON GITHUB ****
 
-2.6 (10/8/2026) Testing Version
+2.6 (11/8/2026) Testing Version
 1. Added preset renaming
 2. Removed allusion to remove ads function in info
 3. Added critical/non-critical update check & skip non-critical functions
+4. Added Dark Mode
+5. Modified Splash Screen
 
 2.5 (8/8/2026) (15)
 1. Fixed onboarding loop
