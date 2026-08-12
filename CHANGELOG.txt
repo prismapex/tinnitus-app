@@ -1,5 +1,9 @@
 **** UPDATE VERSION NUMBER IN SCRIPT AND ON GITHUB ****
 
+2.7 (12/8/2026) Test Version
+1. Fixed black text in dark mode
+2. Fixed label case
+
 2.6 (11/8/2026) Testing Version
 1. Added preset renaming
 2. Removed allusion to remove ads function in info
