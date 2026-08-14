@@ -1,5 +1,10 @@
 **** UPDATE VERSION NUMBER IN SCRIPT AND ON GITHUB ****
 
+2.8 (14/8/2026) Test Version
+1. Modified layout for permanent bottom banner ad
+2. Removed function for timed ad display
+3. Fixed missing version number
+
 2.7 (12/8/2026) Test Version
 1. Fixed black text in dark mode
 2. Fixed label case
