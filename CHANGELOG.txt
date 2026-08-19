@@ -1,5 +1,7 @@
 **** UPDATE VERSION NUMBER IN SCRIPT AND ON GITHUB ****
 
+** 2.8 (19/8/2026) PRODUCTION VERSION RELEASED **
+
 2.8 (14/8/2026) Test Version
 1. Modified layout for permanent bottom banner ad
 2. Removed function for timed ad display
