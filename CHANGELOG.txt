@@ -1,5 +1,8 @@
 **** UPDATE VERSION NUMBER IN SCRIPT AND ON GITHUB ****
 
+2.9 (23/8/2026)
+1. Extended range of White Noise and Pink Noise
+
 ** 2.8 (19/8/2026) PRODUCTION VERSION RELEASED **
 
 2.8 (14/8/2026) Test Version
