@@ -1,5 +1,8 @@
 **** UPDATE VERSION NUMBER IN SCRIPT AND ON GITHUB ****
 
+3.0 (28/8/2026)
+1. Enabled live ads
+
 2.9 (23/8/2026)
 1. Extended range of White Noise and Pink Noise
 
